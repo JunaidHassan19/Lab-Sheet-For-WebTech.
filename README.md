@@ -1,4 +1,5 @@
-Lab Work Project: HTML & CSS
+<pre>
+  Lab Work Project: HTML & CSS
 Introduction
 Welcome to the Lab Work Project repository! This project showcases the application of HTML and CSS in creating a web-based project. This repository contains files and resources related to a lab assignment completed by Junaid Hassan
 
@@ -31,3 +32,4 @@ Contributions to improve this project are welcome! Feel free to suggest enhancem
 
 License
 This project is licensed under the MIT License.
+</pre>
